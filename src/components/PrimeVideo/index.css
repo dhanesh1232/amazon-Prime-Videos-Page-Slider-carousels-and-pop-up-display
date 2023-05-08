@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.prime-container {
+  width: 100vw;
+  min-height: 100vh;
+  background-color: #000000;
+}
+.website-logo {
+  height: 30vh;
+  width: 100%;
+}
+.page-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+.movies-container {
+  width: 90%;
+  color: #ffffff;
+}

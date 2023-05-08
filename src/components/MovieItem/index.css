@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.thumb-button {
+  width: 350px;
+  height: 180px;
+  background-color: transparent;
+  border: 0px solid transparent;
+}
+.thumb-image {
+  width: 100%;
+  height: 100%;
+}
+.popup-content {
+  background-color: #ffffff;
+  width: 50%;
+  height: 500px;
+  border-radius: 12px;
+}
+.video-page {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.close-button {
+  background-color: transparent;
+  align-self: flex-end;
+  padding: 15px;
+  border: 0px transparent;
+}
+.video {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
